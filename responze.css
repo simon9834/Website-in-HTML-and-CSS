@@ -1,0 +1,41 @@
+@media only screen and (min-width: 650px) {
+    header {
+        padding-left: 80px;
+    }
+    header h1 {
+        padding: 12px;
+        font-size: 20px;
+    }
+    nav {
+        padding-left: 20px;
+    }
+    nav a {
+        padding: 9px 11px;
+        margin: 0 6px;
+        font-size: 16px;
+    }
+    main{
+        padding-left: 80px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    header {
+        padding-left: 180px;
+    }
+    header h1 {
+        padding: 15px;
+        font-size: 24px;
+    }
+    nav {
+        padding-left: 40px;
+    }
+    nav a {
+        padding: 10px 20px;
+        margin: 0 10px;
+        font-size: 19px;
+    }
+    main{
+        padding-left: 180px;
+    }
+}
